@@ -21,5 +21,6 @@ Note: These points are just to give you an initial understanding of how to proce
 
  
 
-End Objective
+End Objective:
+
 To prepare for the next best steps that Airbnb needs to take as a business, you have been asked to analyse a dataset consisting of various Airbnb listings in New York.
